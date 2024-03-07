@@ -1,2 +1,2 @@
 # fristcode
-This is the frist step to the world!
+- This is the frist step to the world!
